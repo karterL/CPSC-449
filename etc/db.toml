@@ -1,0 +1,7 @@
+[DATABASES]
+# URL = "sqlite+aiosqlite:///var/primary/mount/game.db"
+USER_DB_PATH = "sqlite+aiosqlite:///user.db"
+WORD_DB_PATH = "sqlite+aiosqlite:///word.db"
+GAME_DB_PATH = "sqlite+aiosqlite:///var/primary/mount/game.db"
+GAME_SEC_DB_PATH = "sqlite+aiosqlite:///var/secondary/mount/game.db"
+GAME_TER_DB_PATH = "sqlite+aiosqlite:///var/tertiary/mount/game.db"
